@@ -2,6 +2,9 @@ package practice;
 
 public class Tribonacci {
 
+    /*
+    * T0 = 0, T1 = 1, T2 = 1, and Tn+3 = Tn + Tn+1 + Tn+2 for n >= 0.
+    */
     public static void main(String args[]) {
         Tribonacci t = new Tribonacci();
         System.out.println(t.solution(25));
