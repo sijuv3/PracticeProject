@@ -1,5 +1,6 @@
 package practice;
 
+import java.util.HashMap;
 import java.util.HashSet;
 import java.util.Set;
 
@@ -14,10 +15,10 @@ public class LongestSubstring {
      */
     public static void main(String args[]) {
         LongestSubstring l = new LongestSubstring();
-        System.out.println(l.solution("abcabcbb"));
+        System.out.println(l.solution1("abcabcbb"));
     }
 
-    private int solution(String s) {
+    private int solution1(String s) {
         int max = 0;
         int a_pointer = 0; // pointer at the beginning or first char
         int b_pointer = 0; // pointer which keeps moving/sliding to the right
@@ -34,6 +35,21 @@ public class LongestSubstring {
             }
         }
 
+        return max;
+    }
+
+    private int solution2(String s) {
+        if (s.length() == 0)
+            return 0;
+        HashMap<Character, Integer> map = new HashMap<>();
+        int max = 0;
+        for (int i=0, j=0; i<s.length(); ++i) {
+            if (map.containsKey(s.charAt(i)))
+                j = Math.max(j,map.get(s.charAt(i))+1);
+
+            map.put(s.charAt(i), i);
+            max = Math.max(max, i-j+1);
+        }
         return max;
     }
 }

@@ -3,7 +3,7 @@ package practice;
 public class ReverseWords {
     public static void main(String[] args) {
         ReverseWords rw = new ReverseWords();
-        System.out.println(rw.solution("hello world"));
+        System.out.println(rw.solution("hello world! Welcome to coding."));
     }
 
     private String solution(String s) {
