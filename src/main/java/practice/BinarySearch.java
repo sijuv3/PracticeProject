@@ -8,8 +8,10 @@ public class BinarySearch {
     }
 
     private int search(int[] nums, int target) {
-        if (nums.length <= 0) return -1;
-        int left = 0, right = nums.length - 1;
+        if (nums.length <= 0)
+            return -1;
+        int left = 0;
+        int right = nums.length - 1;
 
         while (left <= right) {
             int midpoint = left + (right - left) / 2;
