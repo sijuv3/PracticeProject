@@ -3,8 +3,8 @@ package tree;
 public class MergeBinaryTrees {
     public static void main(String[] args) {
         MergeBinaryTrees m = new MergeBinaryTrees();
-        m.mergeTrees();
-        m.merge();
+        //m.mergeTrees();
+        //m.merge();
     }
 
     public TreeNode mergeTrees(TreeNode t1, TreeNode t2) {
