@@ -1,6 +1,4 @@
-package practice;
-
-import java.util.List;
+package list;
 
 public class SumOfTwoNum {
 
