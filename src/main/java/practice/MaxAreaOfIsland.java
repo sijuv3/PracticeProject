@@ -3,7 +3,7 @@ package practice;
 public class MaxAreaOfIsland {
     public static void main(String[] args) {
         MaxAreaOfIsland m = new MaxAreaOfIsland();
-        int grid[][] = {
+        int[][] grid = {
             {0, 0, 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0},
             {0, 0, 0, 0, 0, 0, 0, 1, 1, 1, 0, 0, 0},
             {0, 1, 1, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0},

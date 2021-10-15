@@ -13,13 +13,15 @@ public class RemoveNthNodeFromEnd {
         ListNode n5 = new ListNode(5);
         ListNode n6 = new ListNode(6);
         ListNode n7 = new ListNode(7);
+        ListNode n8 = new ListNode(8);
         n1.next = n2;
         n2.next = n3;
         n3.next = n4;
         n4.next = n5;
         n5.next = n6;
         n6.next = n7;
-        r.printVal(r.removeNthFromEnd1(n1, 2));
+        n7.next = n8;
+        r.printVal(r.removeNthFromEnd1(n1, 3));
         //r.printVal(r.removeNthFromEnd2(n1, 2));
 
     }
@@ -52,16 +54,17 @@ public class RemoveNthNodeFromEnd {
 
         while (fast.next != null) {
             fast = fast.next;
-            if (n-- <= 0) {
+            if (n <= 0) {
                 slow = slow.next;
             }
+            n -= 1;
         }
         slow.next = slow.next.next;
         return dummy.next;
     }
 
     private void printVal(ListNode head) {
-        ArrayList<Integer> arr = new ArrayList<Integer>();
+        ArrayList<Integer> arr = new ArrayList<>();
         ListNode dummy = head;
         while(dummy!= null) {
             arr.add(dummy.val);

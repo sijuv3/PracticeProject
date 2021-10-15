@@ -10,7 +10,8 @@ public class FloodFill {
                 {1, 1, 0},
                 {1, 0, 1}
         };
-        int array[][] = {{1, 1, 1}, {1, 1, 0}, {1, 0, 1}}; //can declare/initilize this way also;
+        // can declare/initilize this way also;
+        // int array[][] = {{1, 1, 1}, {1, 1, 0}, {1, 0, 1}};
         int[][] result = ff.floodFill(arr, 1, 1, 2);
         for (int[] row : result)
             System.out.println(Arrays.toString(row));
@@ -29,9 +30,9 @@ public class FloodFill {
     }
 
     private void fill(int[][] image, int sr, int sc, int color, int newColor) {
-        if (sr < 0 || sc < 0 || sr >= image.length || sc >= image[0].length || image[sr][sc] != color) {
+        if (sr < 0 || sc < 0 || sr >= image.length || sc >= image[sr].length || image[sr][sc] != color)
             return;
-        }
+
         image[sr][sc] = newColor;
         fill(image, sr - 1, sc, color, newColor);
         fill(image, sr + 1, sc, color, newColor);
