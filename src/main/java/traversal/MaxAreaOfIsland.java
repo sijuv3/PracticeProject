@@ -1,4 +1,4 @@
-package practice;
+package traversal;
 
 public class MaxAreaOfIsland {
     public static void main(String[] args) {

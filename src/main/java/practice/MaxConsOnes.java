@@ -6,7 +6,9 @@ public class MaxConsOnes {
 
     public static void main(String args[]) {
         MaxConsOnes m = new MaxConsOnes();
-        System.out.println(m.findMaxConsecutiveOnes(new int[]{1,1,0,1,1,1}));
+        System.out.println(m.findMaxConsecutiveOnes(new int[]{
+                1, 1, 0, 1, 1, 1
+        }));
     }
 
     public int findMaxConsecutiveOnes(int[] nums) {
