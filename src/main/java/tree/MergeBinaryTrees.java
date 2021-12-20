@@ -3,6 +3,10 @@ package tree;
 public class MergeBinaryTrees {
     public static void main(String[] args) {
         MergeBinaryTrees m = new MergeBinaryTrees();
+        TreeNode tn5 = new TreeNode(5);
+        TreeNode tn3 = new TreeNode(3, tn5, null);
+        TreeNode tn2 = new TreeNode(2);
+        TreeNode tn1 = new TreeNode(1, tn3, tn2);
         //m.mergeTrees();
         //m.merge();
     }

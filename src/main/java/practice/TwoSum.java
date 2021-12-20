@@ -36,11 +36,10 @@ public class TwoSum {
 
         for (int i=0; i<arr.length; i++) {
             int compliment = target - arr[i];
-            if (processedNum.containsKey(compliment)) {
+            if (processedNum.containsKey(compliment))
                 return new int[] {processedNum.get(compliment), i};
-            } else {
+            else
                 processedNum.put(arr[i], i);
-            }
         }
         return new int[]{};
     }
