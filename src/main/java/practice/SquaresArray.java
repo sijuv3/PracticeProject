@@ -9,7 +9,7 @@ import java.util.Arrays;
 public class SquaresArray {
     public static void main(String[] args) {
         SquaresArray s = new SquaresArray();
-        System.out.println(Arrays.toString(s.solution(new int[]{-4, -1, 0, 3, 10})));
+        System.out.println(Arrays.toString(s.solution(new int[]{-5, -4, -1, 0, 3, 10})));
     }
 
     private int[] solution(int[] nums) {

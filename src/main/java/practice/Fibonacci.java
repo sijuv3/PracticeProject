@@ -17,7 +17,8 @@ public class Fibonacci {
 
         while (n > 1) {
             sum = a + b;
-            a = b; b = sum;
+            a = b;
+            b = sum;
             n--;
         }
         return sum;

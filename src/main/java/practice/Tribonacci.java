@@ -12,12 +12,14 @@ public class Tribonacci {
 
     private int solution(int n) {
         int sum = 0;
-        if (n <= 0) return 0;
-        if (n <= 2) return 1;
+        if (n <= 0)
+            return 0;
+        if (n <= 2)
+            return 1;
 
         int a = 0, b = 1, c = 1;
 
-        while (n >= 3) {
+        while (n > 2) {
             sum = a + b + c;
             a = b; b = c; c = sum;
             n--;
