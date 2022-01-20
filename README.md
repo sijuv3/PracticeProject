@@ -3,10 +3,14 @@
 1. [Binary Search](https://github.com/sijuv3/PracticeProject/blob/main/src/main/java/practice/BinarySearch.java)
 2. [First Bad Version](https://github.com/sijuv3/PracticeProject/blob/main/src/main/java/practice/FirstBadVersion.java)
 3. [Search Insert Position](https://github.com/sijuv3/PracticeProject/blob/main/src/main/java/practice/SearchInsertPosition.java)
+4. [Squares of a Sorted Array](https://github.com/sijuv3/PracticeProject/blob/main/src/main/java/practice/SquaresArray.java)
+5. [Rotate Array](https://github.com/sijuv3/PracticeProject/blob/main/src/main/java/practice/RotateArray.java)
 
 #### Data Structure
 1. [Contains Duplicate](https://github.com/sijuv3/PracticeProject/blob/main/src/main/java/practice/ContainsDuplicate.java)
 2. [Maximum Subarray](https://github.com/sijuv3/PracticeProject/blob/main/src/main/java/practice/MaximumSubArray.java)
+3. [Two Sum](https://github.com/sijuv3/PracticeProject/blob/main/src/main/java/practice/TwoSum.java)
+4. [Merge Sorted Array](https://github.com/sijuv3/PracticeProject/blob/main/src/main/java/practice/MergeSortedArray.java)
 
 #### Dynamic Programming
 1. [Fibonacci Number](https://github.com/sijuv3/PracticeProject/blob/main/src/main/java/practice/Fibonacci.java)
