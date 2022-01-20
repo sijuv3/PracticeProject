@@ -10,3 +10,9 @@ Examples
 6. [Tribonacci](https://github.com/sijuv3/PracticeProject/blob/main/src/main/java/practice/Tribonacci.java)
 7. [Binary Search](https://github.com/sijuv3/PracticeProject/blob/main/src/main/java/practice/BinarySearch.java)
 8. [Check If Array Elements Are Consecutive](https://github.com/sijuv3/PracticeProject/blob/main/src/main/java/practice/CheckIfArrayElementsAreConsecutive.java)
+
+LeetCode:
+1. Algorithm
+1a. [Binary Search](https://github.com/sijuv3/PracticeProject/blob/main/src/main/java/practice/BinarySearch.java)
+2. Data Structure
+3. Dynamic Programming
