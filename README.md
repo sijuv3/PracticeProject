@@ -5,12 +5,16 @@
 3. [Search Insert Position](https://github.com/sijuv3/PracticeProject/blob/main/src/main/java/practice/SearchInsertPosition.java)
 4. [Squares of a Sorted Array](https://github.com/sijuv3/PracticeProject/blob/main/src/main/java/practice/SquaresArray.java)
 5. [Rotate Array](https://github.com/sijuv3/PracticeProject/blob/main/src/main/java/practice/RotateArray.java)
+6. [Move Zeroes](https://github.com/sijuv3/PracticeProject/blob/main/src/main/java/practice/MoveZeroes.java)
+7. [Two Sum II - Input Array Is Sorted](https://github.com/sijuv3/PracticeProject/blob/main/src/main/java/practice/TwoSumII.java)
 
 #### Data Structure
 1. [Contains Duplicate](https://github.com/sijuv3/PracticeProject/blob/main/src/main/java/practice/ContainsDuplicate.java)
 2. [Maximum Subarray](https://github.com/sijuv3/PracticeProject/blob/main/src/main/java/practice/MaximumSubArray.java)
 3. [Two Sum](https://github.com/sijuv3/PracticeProject/blob/main/src/main/java/practice/TwoSum.java)
 4. [Merge Sorted Array](https://github.com/sijuv3/PracticeProject/blob/main/src/main/java/practice/MergeSortedArray.java)
+5. [Intersection of Two Arrays II](https://github.com/sijuv3/PracticeProject/blob/main/src/main/java/practice/IntersectionOfArrays.java)
+6. [Best Time to Buy and Sell Stock](https://github.com/sijuv3/PracticeProject/blob/main/src/main/java/practice/BestTimeToBuySellStock.java)
 
 #### Dynamic Programming
 1. [Fibonacci Number](https://github.com/sijuv3/PracticeProject/blob/main/src/main/java/dynamic/Fibonacci.java)
