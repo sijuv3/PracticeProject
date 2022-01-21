@@ -13,8 +13,10 @@
 4. [Merge Sorted Array](https://github.com/sijuv3/PracticeProject/blob/main/src/main/java/practice/MergeSortedArray.java)
 
 #### Dynamic Programming
-1. [Fibonacci Number](https://github.com/sijuv3/PracticeProject/blob/main/src/main/java/practice/Fibonacci.java)
-2. [N-th Tribonacci Number](https://github.com/sijuv3/PracticeProject/blob/main/src/main/java/practice/Tribonacci.java)
+1. [Fibonacci Number](https://github.com/sijuv3/PracticeProject/blob/main/src/main/java/dynamic/Fibonacci.java)
+2. [N-th Tribonacci Number](https://github.com/sijuv3/PracticeProject/blob/main/src/main/java/dynamic/Tribonacci.java)
+3. [Climbing Stairs](https://github.com/sijuv3/PracticeProject/blob/main/src/main/java/dynamic/ClimbingStairs.java)
+4. [Min Cost Climbing Stairs](https://github.com/sijuv3/PracticeProject/blob/main/src/main/java/dynamic/MinCostClimbingStairs.java)
 
 
 Code snippets for practice
