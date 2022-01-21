@@ -1,4 +1,4 @@
-package practice;
+package dynamic;
 
 public class Tribonacci {
 
