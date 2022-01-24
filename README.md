@@ -21,6 +21,8 @@
 4. [Merge Sorted Array](https://github.com/sijuv3/PracticeProject/blob/main/src/main/java/practice/MergeSortedArray.java)
 5. [Intersection of Two Arrays II](https://github.com/sijuv3/PracticeProject/blob/main/src/main/java/practice/IntersectionOfArrays.java)
 6. [Best Time to Buy and Sell Stock](https://github.com/sijuv3/PracticeProject/blob/main/src/main/java/practice/BestTimeToBuySellStock.java)
+7. [Reshape the Matrix](https://github.com/sijuv3/PracticeProject/blob/main/src/main/java/practice/ReshapeMatrix.java)
+8. [Pascal's Triangle](https://github.com/sijuv3/PracticeProject/blob/main/src/main/java/practice/PascalsTriangle.java)
 
 #### Dynamic Programming
 1. [Fibonacci Number](https://github.com/sijuv3/PracticeProject/blob/main/src/main/java/dynamic/Fibonacci.java)
