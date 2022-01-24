@@ -21,6 +21,9 @@
 2. [N-th Tribonacci Number](https://github.com/sijuv3/PracticeProject/blob/main/src/main/java/dynamic/Tribonacci.java)
 3. [Climbing Stairs](https://github.com/sijuv3/PracticeProject/blob/main/src/main/java/dynamic/ClimbingStairs.java)
 4. [Min Cost Climbing Stairs](https://github.com/sijuv3/PracticeProject/blob/main/src/main/java/dynamic/MinCostClimbingStairs.java)
+5. [House Robber](https://github.com/sijuv3/PracticeProject/blob/main/src/main/java/dynamic/HouseRobber.java)
+6. [House Robber II](https://github.com/sijuv3/PracticeProject/blob/main/src/main/java/dynamic/HouseRobberII.java)
+7. [Delete and Earn](https://github.com/sijuv3/PracticeProject/blob/main/src/main/java/dynamic/DeleteAndEarn.java)
 
 
 Code snippets for practice
