@@ -23,6 +23,8 @@
 6. [Best Time to Buy and Sell Stock](https://github.com/sijuv3/PracticeProject/blob/main/src/main/java/practice/BestTimeToBuySellStock.java)
 7. [Reshape the Matrix](https://github.com/sijuv3/PracticeProject/blob/main/src/main/java/practice/ReshapeMatrix.java)
 8. [Pascal's Triangle](https://github.com/sijuv3/PracticeProject/blob/main/src/main/java/practice/PascalsTriangle.java)
+9. [Valid Sudoku](https://github.com/sijuv3/PracticeProject/blob/main/src/main/java/practice/ValidSudoku.java)
+10. [Search a 2D Matrix](https://github.com/sijuv3/PracticeProject/blob/main/src/main/java/practice/Search2DMatrix.java)
 
 #### Dynamic Programming
 1. [Fibonacci Number](https://github.com/sijuv3/PracticeProject/blob/main/src/main/java/dynamic/Fibonacci.java)
