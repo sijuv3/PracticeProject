@@ -1,42 +1,33 @@
 package practice;
 
-import java.util.*;
+import java.util.Arrays;
+import java.util.HashSet;
 
 public class IntersectionOfArrays {
     public static void main(String[] args) {
-        IntersectionOfArrays ia = new IntersectionOfArrays();
-        System.out.println(Arrays.toString(ia.intersect(new int[]{4, 9, 5, 9}, new int[]{9, 4, 9, 8, 4})));
+        IntersectionOfArrays ii = new IntersectionOfArrays();
+        System.out.println(Arrays.toString(ii.intersect(new int[]{4, 9, 5, 9}, new int[]{9, 4, 9, 8, 4})));
+        System.out.println(Arrays.toString(ii.intersect(new int[]{1, 2, 2, 1}, new int[]{2, 2})));
     }
 
     public int[] intersect(int[] nums1, int[] nums2) {
-        if (nums1.length > nums2.length)
-            return intersect(nums2, nums1);
-
-        Map<Integer, Integer> map = new HashMap<>();
-        for (int num : nums1) {
-            map.put(num, map.getOrDefault(num, 0) + 1);
+        HashSet<Integer> set = new HashSet<>();
+        for (int i : nums1) {
+            set.add(i);
         }
 
-        List<Integer> list = new ArrayList<>();
-        for (int num : nums2) {
-            int count = map.getOrDefault(num, 0);
-            if (count > 0) {
-                list.add(num);
-                map.put(num, count - 1);
-            }
+        HashSet<Integer> intersection = new HashSet<>();
+        for (int i : nums2) {
+            if (set.contains(i))
+                intersection.add(i);
         }
 
-        // Add list entries to an array and return
-        int[] result = new int[list.size()];
-        int i = 0;
-        for (int num : list) {
-            result[i++] = num;
+        int[] result = new int[intersection.size()];
+        int index = 0;
+        for (int i : intersection) {
+            result[index] = i;
+            index++;
         }
-
-        // Or convert to array as below, supported in java 8
-        int[] res = list.stream()
-                .mapToInt(Integer::intValue)
-                .toArray();
 
         return result;
     }

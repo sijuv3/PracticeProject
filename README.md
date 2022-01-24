@@ -7,6 +7,12 @@
 5. [Rotate Array](https://github.com/sijuv3/PracticeProject/blob/main/src/main/java/practice/RotateArray.java)
 6. [Move Zeroes](https://github.com/sijuv3/PracticeProject/blob/main/src/main/java/practice/MoveZeroes.java)
 7. [Two Sum II - Input Array Is Sorted](https://github.com/sijuv3/PracticeProject/blob/main/src/main/java/practice/TwoSumII.java)
+8. [Reverse String](https://github.com/sijuv3/PracticeProject/blob/main/src/main/java/practice/ReverseString.java)
+9. [Reverse Words in a String III](https://github.com/sijuv3/PracticeProject/blob/main/src/main/java/practice/ReverseWords.java)
+10. [Middle of the Linked List](https://github.com/sijuv3/PracticeProject/blob/main/src/main/java/list/MiddleOfLinkedList.java)
+11. [Remove Nth Node From End of List](https://github.com/sijuv3/PracticeProject/blob/main/src/main/java/list/RemoveNthNodeFromEnd.java)
+12. [Longest Substring Without Repeating Characters](https://github.com/sijuv3/PracticeProject/blob/main/src/main/java/practice/LongestSubstring.java)
+13. [Permutation in String](https://github.com/sijuv3/PracticeProject/blob/main/src/main/java/practice/PermutationString.java)
 
 #### Data Structure
 1. [Contains Duplicate](https://github.com/sijuv3/PracticeProject/blob/main/src/main/java/practice/ContainsDuplicate.java)
