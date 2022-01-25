@@ -13,6 +13,8 @@
 11. [Remove Nth Node From End of List](https://github.com/sijuv3/PracticeProject/blob/main/src/main/java/list/RemoveNthNodeFromEnd.java)
 12. [Longest Substring Without Repeating Characters](https://github.com/sijuv3/PracticeProject/blob/main/src/main/java/practice/LongestSubstring.java)
 13. [Permutation in String](https://github.com/sijuv3/PracticeProject/blob/main/src/main/java/practice/PermutationString.java)
+14. [Flood Fill](https://github.com/sijuv3/PracticeProject/blob/main/src/main/java/traversal/FloodFill.java)
+15. [Max Area of Island](https://github.com/sijuv3/PracticeProject/blob/main/src/main/java/traversal/MaxAreaOfIsland.java)
 
 #### Data Structure
 1. [Contains Duplicate](https://github.com/sijuv3/PracticeProject/blob/main/src/main/java/practice/ContainsDuplicate.java)
