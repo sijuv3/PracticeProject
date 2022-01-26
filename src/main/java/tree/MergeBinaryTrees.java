@@ -1,5 +1,8 @@
 package tree;
 
+/*
+ * https://leetcode.com/problems/merge-two-binary-trees/
+ */
 public class MergeBinaryTrees {
     public static void main(String[] args) {
         MergeBinaryTrees m = new MergeBinaryTrees();

@@ -15,6 +15,8 @@
 13. [Permutation in String](https://github.com/sijuv3/PracticeProject/blob/main/src/main/java/practice/PermutationString.java)
 14. [Flood Fill](https://github.com/sijuv3/PracticeProject/blob/main/src/main/java/traversal/FloodFill.java)
 15. [Max Area of Island](https://github.com/sijuv3/PracticeProject/blob/main/src/main/java/traversal/MaxAreaOfIsland.java)
+16. [Merge Two Binary Trees](https://github.com/sijuv3/PracticeProject/blob/main/src/main/java/tree/MergeBinaryTrees.java)
+17. [Populating Next Right Pointers in Each Node]()
 
 #### Data Structure
 1. [Contains Duplicate](https://github.com/sijuv3/PracticeProject/blob/main/src/main/java/practice/ContainsDuplicate.java)
@@ -30,11 +32,11 @@
 11. [First Unique Character in a String](https://github.com/sijuv3/PracticeProject/blob/main/src/main/java/practice/FirstUniqueCharacterInString.java)
 12. [Ransom Note](https://github.com/sijuv3/PracticeProject/blob/main/src/main/java/practice/RansomNote.java)
 13. [Valid Anagram](https://github.com/sijuv3/PracticeProject/blob/main/src/main/java/practice/ValidAnagram.java)
-14. [Linked List Cycle]
+14. [Linked List Cycle]()
 15. [Merge Two Sorted Lists](https://github.com/sijuv3/PracticeProject/blob/main/src/main/java/list/MergeLists.java)
-16. [Remove Linked List Elements]
-17. [Reverse Linked List]
-18. [Remove Duplicates from Sorted List]
+16. [Remove Linked List Elements]()
+17. [Reverse Linked List]()
+18. [Remove Duplicates from Sorted List]()
 
 #### Dynamic Programming
 1. [Fibonacci Number](https://github.com/sijuv3/PracticeProject/blob/main/src/main/java/dynamic/Fibonacci.java)
@@ -47,21 +49,9 @@
 8. [Jump Game](https://github.com/sijuv3/PracticeProject/blob/main/src/main/java/dynamic/JumpGame.java)
 9. [Jump Game II](https://github.com/sijuv3/PracticeProject/blob/main/src/main/java/dynamic/JumpGameII.java)
 10. [Maximum Subarray](https://github.com/sijuv3/PracticeProject/blob/main/src/main/java/practice/MaximumSubArray.java)
-11. [Maximum Sum Circular Subarray]
-12. [Maximum Product Subarray]
-13. [Maximum Length of Subarray With Positive Product]
-14. [Best Sightseeing Pair]
+11. [Maximum Sum Circular Subarray]()
+12. [Maximum Product Subarray]()
+13. [Maximum Length of Subarray With Positive Product]()
+14. [Best Sightseeing Pair]()
 15. [Best Time to Buy and Sell Stock](https://github.com/sijuv3/PracticeProject/blob/main/src/main/java/dynamic/BestTimeToBuySellStock.java)
 16. [Best Time to Buy and Sell Stock II](https://github.com/sijuv3/PracticeProject/blob/main/src/main/java/dynamic/BestTimeToBuySellStockII.java)
-
-Code snippets for practice
-
-Examples
-1. Arrays
-2. List
-3. Tree
-3a. Some
-5. [Fibonacci](https://github.com/sijuv3/PracticeProject/blob/main/src/main/java/practice/Fibonacci.java)
-6. [Tribonacci](https://github.com/sijuv3/PracticeProject/blob/main/src/main/java/practice/Tribonacci.java)
-7. [Binary Search](https://github.com/sijuv3/PracticeProject/blob/main/src/main/java/practice/BinarySearch.java)
-8. [Check If Array Elements Are Consecutive](https://github.com/sijuv3/PracticeProject/blob/main/src/main/java/practice/CheckIfArrayElementsAreConsecutive.java)
