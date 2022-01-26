@@ -16,7 +16,7 @@
 14. [Flood Fill](https://github.com/sijuv3/PracticeProject/blob/main/src/main/java/traversal/FloodFill.java)
 15. [Max Area of Island](https://github.com/sijuv3/PracticeProject/blob/main/src/main/java/traversal/MaxAreaOfIsland.java)
 16. [Merge Two Binary Trees](https://github.com/sijuv3/PracticeProject/blob/main/src/main/java/tree/MergeBinaryTrees.java)
-17. [Populating Next Right Pointers in Each Node]()
+17. [Populating Next Right Pointers in Each Node](https://github.com/sijuv3/PracticeProject/blob/main/src/main/java/list/PopulateNextRightPointers.java)
 
 #### Data Structure
 1. [Contains Duplicate](https://github.com/sijuv3/PracticeProject/blob/main/src/main/java/practice/ContainsDuplicate.java)
@@ -32,11 +32,11 @@
 11. [First Unique Character in a String](https://github.com/sijuv3/PracticeProject/blob/main/src/main/java/practice/FirstUniqueCharacterInString.java)
 12. [Ransom Note](https://github.com/sijuv3/PracticeProject/blob/main/src/main/java/practice/RansomNote.java)
 13. [Valid Anagram](https://github.com/sijuv3/PracticeProject/blob/main/src/main/java/practice/ValidAnagram.java)
-14. [Linked List Cycle]()
+14. [Linked List Cycle](https://github.com/sijuv3/PracticeProject/blob/main/src/main/java/list/LinkedListCycle.java)
 15. [Merge Two Sorted Lists](https://github.com/sijuv3/PracticeProject/blob/main/src/main/java/list/MergeLists.java)
-16. [Remove Linked List Elements]()
-17. [Reverse Linked List]()
-18. [Remove Duplicates from Sorted List]()
+16. [Remove Linked List Elements](https://github.com/sijuv3/PracticeProject/blob/main/src/main/java/list/RemoveListElements.java)
+17. [Reverse Linked List](https://github.com/sijuv3/PracticeProject/blob/main/src/main/java/list/ReverseLinkedList.java)
+18. [Remove Duplicates from Sorted List](https://github.com/sijuv3/PracticeProject/blob/main/src/main/java/list/RemoveDuplicatesFromList.java)
 
 #### Dynamic Programming
 1. [Fibonacci Number](https://github.com/sijuv3/PracticeProject/blob/main/src/main/java/dynamic/Fibonacci.java)
