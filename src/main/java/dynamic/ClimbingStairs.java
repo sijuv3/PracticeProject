@@ -10,8 +10,10 @@ package dynamic;
 public class ClimbingStairs {
     public static void main(String[] args) {
         ClimbingStairs cs = new ClimbingStairs();
+
         System.out.println(cs.climbStairs1(2));
         System.out.println(cs.climbStairs1(3));
+
         System.out.println(cs.climbStairs2(4));
         System.out.println(cs.climbStairs2(5));
     }
