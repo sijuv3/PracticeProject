@@ -56,7 +56,7 @@
 15. [Best Time to Buy and Sell Stock](https://github.com/sijuv3/PracticeProject/blob/main/src/main/java/dynamic/BestTimeToBuySellStock.java)
 16. [Best Time to Buy and Sell Stock II](https://github.com/sijuv3/PracticeProject/blob/main/src/main/java/dynamic/BestTimeToBuySellStockII.java)
 
-####Sample Programs
+#### Sample Programs
 1. [Check If Array Elements Are Consecutive](https://github.com/sijuv3/PracticeProject/blob/main/src/main/java/practice/CheckIfArrayElementsAreConsecutive.java)
 2. [Find Even In Array](https://github.com/sijuv3/PracticeProject/blob/main/src/main/java/practice/FindEvenInArray.java)
 3. 
