@@ -17,12 +17,11 @@ public class CheckIfArrayElementsAreConsecutive {
     public boolean areConsecutive(int input[]) {
         int min = Integer.MAX_VALUE;
         // sort the array first.
-        for (int i=0; i<input.length; i++) {
-            if (input[i] < min) {
+        for (int i = 0; i < input.length; i++) {
+            if (input[i] < min)
                 min = input[i];
-            }
         }
-        for (int i=0; i<input.length; i++) {
+        for (int i = 0; i < input.length; i++) {
             if (Math.abs(input[i]) - min >= input.length)
                 return false;
         }
