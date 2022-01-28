@@ -17,6 +17,10 @@
 15. [Max Area of Island](https://github.com/sijuv3/PracticeProject/blob/main/src/main/java/traversal/MaxAreaOfIsland.java)
 16. [Merge Two Binary Trees](https://github.com/sijuv3/PracticeProject/blob/main/src/main/java/tree/MergeBinaryTrees.java)
 17. [Populating Next Right Pointers in Each Node](https://github.com/sijuv3/PracticeProject/blob/main/src/main/java/list/PopulateNextRightPointers.java)
+18. [01 Matrix]
+19. [Rotting Oranges](https://github.com/sijuv3/PracticeProject/blob/main/src/main/java/traversal/RottingOranges.java)
+20. [Merge Two Sorted Lists](https://github.com/sijuv3/PracticeProject/blob/main/src/main/java/list/MergeLists.java)
+21. [Reverse Linked List](https://github.com/sijuv3/PracticeProject/blob/main/src/main/java/list/ReverseLinkedList.java)
 
 #### Data Structure
 1. [Contains Duplicate](https://github.com/sijuv3/PracticeProject/blob/main/src/main/java/practice/ContainsDuplicate.java)
@@ -37,6 +41,8 @@
 16. [Remove Linked List Elements](https://github.com/sijuv3/PracticeProject/blob/main/src/main/java/list/RemoveListElements.java)
 17. [Reverse Linked List](https://github.com/sijuv3/PracticeProject/blob/main/src/main/java/list/ReverseLinkedList.java)
 18. [Remove Duplicates from Sorted List](https://github.com/sijuv3/PracticeProject/blob/main/src/main/java/list/RemoveDuplicatesFromList.java)
+19. [Valid Parentheses](https://github.com/sijuv3/PracticeProject/blob/main/src/main/java/stack/ValidParentheses.java)
+20. [Implement Queue using Stacks]
 
 #### Dynamic Programming
 1. [Fibonacci Number](https://github.com/sijuv3/PracticeProject/blob/main/src/main/java/dynamic/Fibonacci.java)
