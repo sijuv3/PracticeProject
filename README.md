@@ -21,6 +21,11 @@
 19. [Rotting Oranges](https://github.com/sijuv3/PracticeProject/blob/main/src/main/java/traversal/RottingOranges.java)
 20. [Merge Two Sorted Lists](https://github.com/sijuv3/PracticeProject/blob/main/src/main/java/list/MergeLists.java)
 21. [Reverse Linked List](https://github.com/sijuv3/PracticeProject/blob/main/src/main/java/list/ReverseLinkedList.java)
+22. [Combinations]
+23. [Permutations]
+24. [Letter Case Permutation]
+25. [Climbing Stairs](https://github.com/sijuv3/PracticeProject/blob/main/src/main/java/dynamic/ClimbingStairs.java)
+26. [House Robber](https://github.com/sijuv3/PracticeProject/blob/main/src/main/java/dynamic/HouseRobber.java)
 
 #### Data Structure
 1. [Contains Duplicate](https://github.com/sijuv3/PracticeProject/blob/main/src/main/java/practice/ContainsDuplicate.java)
@@ -61,16 +66,16 @@
 14. [Best Sightseeing Pair](https://github.com/sijuv3/PracticeProject/blob/main/src/main/java/dynamic/BestSightseeingPair.java)
 15. [Best Time to Buy and Sell Stock](https://github.com/sijuv3/PracticeProject/blob/main/src/main/java/dynamic/BestTimeToBuySellStock.java)
 16. [Best Time to Buy and Sell Stock II](https://github.com/sijuv3/PracticeProject/blob/main/src/main/java/dynamic/BestTimeToBuySellStockII.java)
-17. [309. Best Time to Buy and Sell Stock with Cooldown]
-18. [714. Best Time to Buy and Sell Stock with Transaction Fee]
-19. [139. Word Break](https://github.com/sijuv3/PracticeProject/blob/main/src/main/java/dynamic/WordBreak.java)
-20. [42. Trapping Rain Water](https://github.com/sijuv3/PracticeProject/blob/main/src/main/java/dynamic/TrappingRainWater.java)
-21. [413. Arithmetic Slices](https://github.com/sijuv3/PracticeProject/blob/main/src/main/java/dynamic/ArithmeticSlices.java)
-22. [91. Decode Ways]
-23. [264. Ugly Number II]
-24. [96. Unique Binary Search Trees]
-25. [118. Pascal's Triangle](https://github.com/sijuv3/PracticeProject/blob/main/src/main/java/dynamic/PascalsTriangle.java)
-26. [119. Pascal's Triangle II](https://github.com/sijuv3/PracticeProject/blob/main/src/main/java/dynamic/PascalsTriangleII)
+17. [Best Time to Buy and Sell Stock with Cooldown]
+18. [Best Time to Buy and Sell Stock with Transaction Fee]
+19. [Word Break](https://github.com/sijuv3/PracticeProject/blob/main/src/main/java/dynamic/WordBreak.java)
+20. [Trapping Rain Water](https://github.com/sijuv3/PracticeProject/blob/main/src/main/java/dynamic/TrappingRainWater.java)
+21. [Arithmetic Slices](https://github.com/sijuv3/PracticeProject/blob/main/src/main/java/dynamic/ArithmeticSlices.java)
+22. [Decode Ways]
+23. [Ugly Number II]
+24. [Unique Binary Search Trees]
+25. [Pascal's Triangle](https://github.com/sijuv3/PracticeProject/blob/main/src/main/java/dynamic/PascalsTriangle.java)
+26. [Pascal's Triangle II](https://github.com/sijuv3/PracticeProject/blob/main/src/main/java/dynamic/PascalsTriangleII)
 
 #### Sample Programs
 1. [Check If Array Elements Are Consecutive](https://github.com/sijuv3/PracticeProject/blob/main/src/main/java/practice/CheckIfArrayElementsAreConsecutive.java)
