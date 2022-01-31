@@ -30,7 +30,7 @@
 5. [Intersection of Two Arrays II](https://github.com/sijuv3/PracticeProject/blob/main/src/main/java/practice/IntersectionOfArrays.java)
 6. [Best Time to Buy and Sell Stock](https://github.com/sijuv3/PracticeProject/blob/main/src/main/java/practice/BestTimeToBuySellStock.java)
 7. [Reshape the Matrix](https://github.com/sijuv3/PracticeProject/blob/main/src/main/java/practice/ReshapeMatrix.java)
-8. [Pascal's Triangle](https://github.com/sijuv3/PracticeProject/blob/main/src/main/java/practice/PascalsTriangle.java)
+8. [Pascal's Triangle](https://github.com/sijuv3/PracticeProject/blob/main/src/main/java/dynamic/PascalsTriangle.java)
 9. [Valid Sudoku](https://github.com/sijuv3/PracticeProject/blob/main/src/main/java/practice/ValidSudoku.java)
 10. [Search a 2D Matrix](https://github.com/sijuv3/PracticeProject/blob/main/src/main/java/practice/Search2DMatrix.java)
 11. [First Unique Character in a String](https://github.com/sijuv3/PracticeProject/blob/main/src/main/java/practice/FirstUniqueCharacterInString.java)
@@ -61,6 +61,16 @@
 14. [Best Sightseeing Pair](https://github.com/sijuv3/PracticeProject/blob/main/src/main/java/dynamic/BestSightseeingPair.java)
 15. [Best Time to Buy and Sell Stock](https://github.com/sijuv3/PracticeProject/blob/main/src/main/java/dynamic/BestTimeToBuySellStock.java)
 16. [Best Time to Buy and Sell Stock II](https://github.com/sijuv3/PracticeProject/blob/main/src/main/java/dynamic/BestTimeToBuySellStockII.java)
+17. [309. Best Time to Buy and Sell Stock with Cooldown]
+18. [714. Best Time to Buy and Sell Stock with Transaction Fee]
+19. [139. Word Break](https://github.com/sijuv3/PracticeProject/blob/main/src/main/java/dynamic/WordBreak.java)
+20. [42. Trapping Rain Water](https://github.com/sijuv3/PracticeProject/blob/main/src/main/java/dynamic/TrappingRainWater.java)
+21. [413. Arithmetic Slices](https://github.com/sijuv3/PracticeProject/blob/main/src/main/java/dynamic/ArithmeticSlices.java)
+22. [91. Decode Ways]
+23. [264. Ugly Number II]
+24. [96. Unique Binary Search Trees]
+25. [118. Pascal's Triangle](https://github.com/sijuv3/PracticeProject/blob/main/src/main/java/dynamic/PascalsTriangle.java)
+26. [119. Pascal's Triangle II](https://github.com/sijuv3/PracticeProject/blob/main/src/main/java/dynamic/PascalsTriangleII)
 
 #### Sample Programs
 1. [Check If Array Elements Are Consecutive](https://github.com/sijuv3/PracticeProject/blob/main/src/main/java/practice/CheckIfArrayElementsAreConsecutive.java)
