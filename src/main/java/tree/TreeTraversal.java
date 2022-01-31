@@ -2,6 +2,16 @@ package tree;
 
 import java.util.*;
 
+/*
+ * For Inorder, you traverse from the left subtree to the root then to the right subtree.
+ * Inorder => Left, Root, Right.
+ *
+ * For Preorder, you traverse from the root to the left subtree then to the right subtree.
+ * Preorder => Root, Left, Right.
+ *
+ * For Post order, you traverse from the left subtree to the right subtree then to the root.
+ * Post order => Left, Right, Root.
+ */
 public class TreeTraversal {
     /*
      * Pre Order Traverse
