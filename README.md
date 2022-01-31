@@ -21,9 +21,9 @@
 19. [Rotting Oranges](https://github.com/sijuv3/PracticeProject/blob/main/src/main/java/traversal/RottingOranges.java)
 20. [Merge Two Sorted Lists](https://github.com/sijuv3/PracticeProject/blob/main/src/main/java/list/MergeLists.java)
 21. [Reverse Linked List](https://github.com/sijuv3/PracticeProject/blob/main/src/main/java/list/ReverseLinkedList.java)
-22. [Combinations]
-23. [Permutations]
-24. [Letter Case Permutation]
+22. [Combinations](https://github.com/sijuv3/PracticeProject/blob/main/src/main/java/practice/Combinations.java)
+23. [Permutations](https://github.com/sijuv3/PracticeProject/blob/main/src/main/java/practice/Permutations.java)
+24. [Letter Case Permutation](https://github.com/sijuv3/PracticeProject/blob/main/src/main/java/practice/LetterCasePermutation.java)
 25. [Climbing Stairs](https://github.com/sijuv3/PracticeProject/blob/main/src/main/java/dynamic/ClimbingStairs.java)
 26. [House Robber](https://github.com/sijuv3/PracticeProject/blob/main/src/main/java/dynamic/HouseRobber.java)
 
