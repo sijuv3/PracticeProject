@@ -1,5 +1,5 @@
-### LeetCode Problems:
-#### Algorithm
+## LeetCode Problems:
+### Algorithm
 ###### Binary Search
 1. [Binary Search](https://github.com/sijuv3/PracticeProject/blob/main/src/main/java/practice/BinarySearch.java)
 2. [First Bad Version](https://github.com/sijuv3/PracticeProject/blob/main/src/main/java/practice/FirstBadVersion.java)
@@ -34,7 +34,7 @@
 26. [House Robber](https://github.com/sijuv3/PracticeProject/blob/main/src/main/java/dynamic/HouseRobber.java)
 27. [Triangle](https://github.com/sijuv3/PracticeProject/blob/main/src/main/java/dynamic/Triangle.java)
 
-#### Data Structure
+### Data Structure
 ###### Arrays
 1. [Contains Duplicate](https://github.com/sijuv3/PracticeProject/blob/main/src/main/java/practice/ContainsDuplicate.java)
 2. [Maximum Subarray](https://github.com/sijuv3/PracticeProject/blob/main/src/main/java/practice/MaximumSubArray.java)
@@ -71,7 +71,7 @@
 29. [Search in a Binary Search Tree]
 30. [Insert into a Binary Search Tree]
 
-#### Dynamic Programming
+### Dynamic Programming
 1. [Fibonacci Number](https://github.com/sijuv3/PracticeProject/blob/main/src/main/java/dynamic/Fibonacci.java)
 2. [N-th Tribonacci Number](https://github.com/sijuv3/PracticeProject/blob/main/src/main/java/dynamic/Tribonacci.java)
 3. [Climbing Stairs](https://github.com/sijuv3/PracticeProject/blob/main/src/main/java/dynamic/ClimbingStairs.java)
