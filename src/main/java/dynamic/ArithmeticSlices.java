@@ -1,5 +1,8 @@
 package dynamic;
 
+/*
+ * https://leetcode.com/problems/arithmetic-slices/
+ */
 public class ArithmeticSlices {
     public static void main(String[] args) {
         ArithmeticSlices as = new ArithmeticSlices();

@@ -8,6 +8,8 @@ public class BestTimeToBuySellStock {
         BestTimeToBuySellStock bb = new BestTimeToBuySellStock();
         System.out.println(bb.maxProfit(new int[]{7, 1, 5, 3, 6, 4}));
         System.out.println(bb.maxProfit(new int[]{7, 6, 4, 3, 1}));
+
+        System.out.println(bb.maxProfit2(new int[]{7, 1, 5, 3, 6, 4}));
     }
 
     public int maxProfit(int[] prices) {

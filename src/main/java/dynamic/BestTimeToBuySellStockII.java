@@ -6,9 +6,9 @@ package dynamic;
 public class BestTimeToBuySellStockII {
     public static void main(String[] args) {
         BestTimeToBuySellStockII bt = new BestTimeToBuySellStockII();
-        //System.out.println(bt.maxProfit(new int[]{7, 1, 5, 3, 6, 4}));
+        System.out.println(bt.maxProfit(new int[]{7, 1, 5, 3, 6, 4}));
         System.out.println(bt.maxProfit(new int[]{1, 2, 3, 4, 5}));
-        //System.out.println(bt.maxProfit(new int[]{7, 6, 4, 3, 1}));
+        System.out.println(bt.maxProfit(new int[]{7, 6, 4, 3, 1}));
     }
 
     public int maxProfit(int[] prices) {
