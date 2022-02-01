@@ -34,7 +34,10 @@
 26. [House Robber](https://github.com/sijuv3/PracticeProject/blob/main/src/main/java/dynamic/HouseRobber.java)
 27. [Triangle](https://github.com/sijuv3/PracticeProject/blob/main/src/main/java/dynamic/Triangle.java)
 
-### II. Data Structure
+### II. Algorithm
+###### Binary Search
+
+### I. Data Structure
 ###### Arrays
 1. [Contains Duplicate](https://github.com/sijuv3/PracticeProject/blob/main/src/main/java/practice/ContainsDuplicate.java)
 2. [Maximum Subarray](https://github.com/sijuv3/PracticeProject/blob/main/src/main/java/practice/MaximumSubArray.java)
@@ -65,13 +68,18 @@
 23. [Binary Tree Postorder Traversal](https://github.com/sijuv3/PracticeProject/blob/main/src/main/java/tree/BinaryTreePostorderTraversal.java)
 24. [Binary Tree Level Order Traversal]
 25. [Maximum Depth of Binary Tree](https://github.com/sijuv3/PracticeProject/blob/main/src/main/java/tree/MaximumDepthOfBinaryTree.java)
-26. [Symmetric Tree]
-27. [Invert Binary Tree]
-28. [Path Sum]
-29. [Search in a Binary Search Tree]
+26. [Symmetric Tree](https://github.com/sijuv3/PracticeProject/blob/main/src/main/java/tree/SymmetricTree.java)
+27. [Invert Binary Tree](https://github.com/sijuv3/PracticeProject/blob/main/src/main/java/tree/InvertBinaryTree.java)
+28. [Path Sum](https://github.com/sijuv3/PracticeProject/blob/main/src/main/java/tree/PathSum.java)
+29. [Search in a Binary Search Tree](https://github.com/sijuv3/PracticeProject/blob/main/src/main/java/tree/SearchInBinaryTree.java)
 30. [Insert into a Binary Search Tree]
 
-### III. Dynamic Programming
+### II. Data Structure
+###### Arrays
+1. [Single Number](https://github.com/sijuv3/PracticeProject/blob/main/src/main/java/arrays/SingleNumber.java)
+2. [Majority Element](https://github.com/sijuv3/PracticeProject/blob/main/src/main/java/arrays/MajorityElement.java)
+
+### I. Dynamic Programming
 1. [Fibonacci Number](https://github.com/sijuv3/PracticeProject/blob/main/src/main/java/dynamic/Fibonacci.java)
 2. [N-th Tribonacci Number](https://github.com/sijuv3/PracticeProject/blob/main/src/main/java/dynamic/Tribonacci.java)
 3. [Climbing Stairs](https://github.com/sijuv3/PracticeProject/blob/main/src/main/java/dynamic/ClimbingStairs.java)
