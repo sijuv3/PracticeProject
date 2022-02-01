@@ -63,12 +63,12 @@ public class Fibonacci {
         if (n <= 1)
             return n;
 
-        int[] fib_cache = new int[n + 1];
-        fib_cache[1] = 1;
+        int[] dp = new int[n + 1];
+        dp[1] = 1;
 
         for (int i = 2; i <= n; i++) {
-            fib_cache[i] = fib_cache[i - 1] + fib_cache[i - 2];
+            dp[i] = dp[i - 1] + dp[i - 2];
         }
-        return fib_cache[n];
+        return dp[n];
     }
 }
