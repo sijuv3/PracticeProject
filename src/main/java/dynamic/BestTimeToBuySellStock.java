@@ -6,6 +6,7 @@ package dynamic;
 public class BestTimeToBuySellStock {
     public static void main(String[] args) {
         BestTimeToBuySellStock bb = new BestTimeToBuySellStock();
+        // Buy on day 2 (price = 1) and sell on day 5 (price = 6), profit = 6-1 = 5.
         System.out.println(bb.maxProfit(new int[]{7, 1, 5, 3, 6, 4}));
         System.out.println(bb.maxProfit(new int[]{7, 6, 4, 3, 1}));
 
@@ -17,7 +18,7 @@ public class BestTimeToBuySellStock {
             return 0 ;
 
         int profit = 0;
-        int minPriceSoFar = prices[0];//Integer.MAX_VALUE;
+        int minPriceSoFar = Integer.MAX_VALUE;//prices[0];//Integer.MAX_VALUE;
         for (int price : prices) {
             if (price < minPriceSoFar)
                 minPriceSoFar = price;
