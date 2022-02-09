@@ -110,4 +110,8 @@
 #### Sample Programs
 1. [Check If Array Elements Are Consecutive](https://github.com/sijuv3/PracticeProject/blob/main/src/main/java/practice/CheckIfArrayElementsAreConsecutive.java)
 2. [Find Even In Array](https://github.com/sijuv3/PracticeProject/blob/main/src/main/java/practice/FindEvenInArray.java)
-3. 
+3. [Maximum Sum Subarray of Size K](https://github.com/sijuv3/PracticeProject/blob/main/src/main/java/practice/MaxSumSubArrayOfSizeK.java)
+4. [Smallest Subarray With a Greater Sum](https://github.com/sijuv3/PracticeProject/blob/main/src/main/java/practice/MinSizeSubArraySum.java)
+5. [Longest Substring with maximum K Distinct Characters]()
+6. [Reverse Integer](https://github.com/sijuv3/PracticeProject/blob/main/src/main/java/practice/ReverseInteger.java)
+7. [Container With Most Water](https://github.com/sijuv3/PracticeProject/blob/main/src/main/java/practice/ContainerWithMostWater.java)
