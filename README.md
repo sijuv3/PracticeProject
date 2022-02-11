@@ -115,3 +115,15 @@
 5. [Longest Substring with maximum K Distinct Characters]()
 6. [Reverse Integer](https://github.com/sijuv3/PracticeProject/blob/main/src/main/java/practice/ReverseInteger.java)
 7. [Container With Most Water](https://github.com/sijuv3/PracticeProject/blob/main/src/main/java/practice/ContainerWithMostWater.java)
+
+#### Top Facebook Questions
+1. [Next Permutation](https://github.com/sijuv3/PracticeProject/blob/main/src/main/java/practice/NextPermutation.java)
+2. [Pow(x, n)](https://github.com/sijuv3/PracticeProject/blob/main/src/main/java/practice/Pow.java)
+3. [Merge Intervals](https://github.com/sijuv3/PracticeProject/blob/main/src/main/java/practice/MergeIntervals.java)
+
+#### Top Amazon Questions
+1. [Two Sum](https://github.com/sijuv3/PracticeProject/blob/main/src/main/java/practice/TwoSum.java)
+2. [Integer to Roman](https://github.com/sijuv3/PracticeProject/blob/main/src/main/java/practice/IntegertoRoman.java)
+3. [Trapping Rain Water](https://github.com/sijuv3/PracticeProject/blob/main/src/main/java/dynamic/TrappingRainWater.java)
+4. [Group Anagrams]
+5. [Merge Intervals](https://github.com/sijuv3/PracticeProject/blob/main/src/main/java/practice/MergeIntervals.java)
