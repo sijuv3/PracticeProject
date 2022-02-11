@@ -2,6 +2,7 @@ package dynamic;
 
 /*
  * https://leetcode.com/problems/trapping-rain-water/
+ * https://leetcode.com/problems/trapping-rain-water/Figures/42/trapping_rain_water.png
  */
 public class TrappingRainWater {
     public static void main(String[] args) {

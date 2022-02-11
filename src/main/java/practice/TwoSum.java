@@ -32,9 +32,9 @@ public class TwoSum {
     }
 
     static int[] optimalSolution(int[] arr, int target) {
-        final Map<Integer, Integer> processedNum = new HashMap<Integer, Integer>();
+        final Map<Integer, Integer> processedNum = new HashMap<>();
 
-        for (int i=0; i<arr.length; i++) {
+        for (int i = 0; i < arr.length; i++) {
             int compliment = target - arr[i];
             if (processedNum.containsKey(compliment))
                 return new int[] {processedNum.get(compliment), i};
