@@ -127,3 +127,10 @@
 3. [Trapping Rain Water](https://github.com/sijuv3/PracticeProject/blob/main/src/main/java/dynamic/TrappingRainWater.java)
 4. [Group Anagrams]
 5. [Merge Intervals](https://github.com/sijuv3/PracticeProject/blob/main/src/main/java/practice/MergeIntervals.java)
+
+#### Top Google Questions
+
+#### Top Microsoft Questions
+1. [Longest Substring Without Repeating Characters](https://github.com/sijuv3/PracticeProject/blob/main/src/main/java/practice/LongestSubstring.java)
+2. [Letter Combinations of a Phone Number]
+3. [Search in Rotated Sorted Array](https://github.com/sijuv3/PracticeProject/blob/main/src/main/java/practice/SearchInRotatedSortedArray.java)
