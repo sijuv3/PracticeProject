@@ -12,19 +12,17 @@ public class TrappingRainWater {
     }
 
     public int trap(int[] height) {
-        int a = 0;
-        int b = height.length - 1;
-        int max = 0;
-        int leftmax = 0;
-        int rightmax = 0;
-        while (a <= b) {
-            leftmax = Math.max(leftmax, height[a]);
-            rightmax = Math.max(rightmax, height[b]);
+        int left = 0, right = height.length - 1;
+        int trappedWater = 0;
+        int leftmax = 0, rightmax = 0;
+        while (left <= right) {
+            leftmax = Math.max(leftmax, height[left]);
+            rightmax = Math.max(rightmax, height[right]);
             if (leftmax < rightmax)
-                max += leftmax - height[a++];       // leftmax is smaller than rightmax, so the (leftmax-A[a]) water can be stored
+                trappedWater += leftmax - height[left++];       // leftmax is smaller than rightmax, so the (leftmax-A[a]) water can be stored
             else
-                max += rightmax - height[b--];
+                trappedWater += rightmax - height[right--];
         }
-        return max;
+        return trappedWater;
     }
 }
