@@ -120,6 +120,10 @@
 1. [Next Permutation](https://github.com/sijuv3/PracticeProject/blob/main/src/main/java/practice/NextPermutation.java)
 2. [Pow(x, n)](https://github.com/sijuv3/PracticeProject/blob/main/src/main/java/practice/Pow.java)
 3. [Merge Intervals](https://github.com/sijuv3/PracticeProject/blob/main/src/main/java/practice/MergeIntervals.java)
+4. [Valid Number - Hard]
+5. [Simplify Path](https://github.com/sijuv3/PracticeProject/blob/main/src/main/java/stack/SimplifyPath.java)
+6. [Merge Sorted Array](https://github.com/sijuv3/PracticeProject/blob/main/src/main/java/practice/MergeSortedArray.java)
+7. [Valid Palindrome](https://github.com/sijuv3/PracticeProject/blob/main/src/main/java/practice/ValidPalindrome.java)
 
 #### Top Amazon Questions
 1. [Two Sum](https://github.com/sijuv3/PracticeProject/blob/main/src/main/java/practice/TwoSum.java)
