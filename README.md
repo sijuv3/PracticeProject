@@ -129,7 +129,7 @@
 1. [Two Sum](https://github.com/sijuv3/PracticeProject/blob/main/src/main/java/practice/TwoSum.java)
 2. [Integer to Roman](https://github.com/sijuv3/PracticeProject/blob/main/src/main/java/practice/IntegertoRoman.java)
 3. [Trapping Rain Water](https://github.com/sijuv3/PracticeProject/blob/main/src/main/java/dynamic/TrappingRainWater.java)
-4. [Group Anagrams]
+4. [Group Anagrams](https://github.com/sijuv3/PracticeProject/blob/main/src/main/java/practice/GroupAnagrams.java)
 5. [Merge Intervals](https://github.com/sijuv3/PracticeProject/blob/main/src/main/java/practice/MergeIntervals.java)
 
 #### Top Google Questions
